@@ -1,11 +1,17 @@
+# Summary
+Bioinformatician and Biologist based in Berlin, Germany
 
-Education
+## Contact me on:
+[Email](mailto:grom.dima.grom@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/gromdimon/)
+ |  [Twitter](https://twitter.com/grom_dimon/)
+
+# Education
 ======
 * High School, Gomel State Regional Lyceum 2019-2021
 * B.S. in Biotechnology, Belarsian State University, 2021-2022
 * B.S. in Bioinformatics, Freie Universität Berlin, 2022-2025 (expected)
 
-Work experience
+# Work experience
 ======
 * 12.2022-present: Student Research Assistant
 * Core Unit of Bioinformatics
