@@ -10,6 +10,16 @@ Active, peaceful, hardworking 🚀
  |  [Twitter](https://twitter.com/grom_dimon/)
 
 ---
+# Skills 
+
+| Theoretical | Languages | Programming | Frameworks | Hobbies |
+| --- | --- | --- | --- | --- |
+| Math | English (C1) | Python | Django | Dreaming and future planning |
+| Biochemistry | German (C2) | bash | Rest | Reading |
+| Statistics | Belorussian (Native) | Haskell | FastAPI | tocks & Crypto long-term investing |
+| --- | Russian (Native) | --- | --- | --- |
+
+---
 
 # Education
 * B.S. at Freie Universität Berlin\
@@ -103,35 +113,6 @@ of alternative sigma factor-promoter complexes\
 > 2 degree diploma of the republic stage (Top 10 in Belarus), 2020
 
 
----
-# Skills 
-
-| Theoretical | Languages | Programming | Frameworks | Hobbies |
-| --- | --- | --- | --- | --- |
-| Math | English (C1) | Python | Django | Dreaming and future planning |
-| Biochemistry | --- | --- | --- | --- |
-| Statistics | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- |
 
 
-### Languages
-+ English (C1)
-+ German (C2)
-+ Belorussian (Native)
-+ Russian (Native)
 
-### Programming languages
-+ Python
-+ bash 
-+ Haskell
-
-### Frameworks
-+ Django
-+ Rest
-+ FastAPI
-
-### Hobbies (but are getting to skills)
-+ Dreaming and future planning
-+ Reading
-+ Stocks & Crypto long-term investing
