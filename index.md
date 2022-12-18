@@ -1,5 +1,5 @@
 # Summary
-### I :
+
 - Working as a Software Engineer at CUBI 💻
 - Studying bioinformatics at FU-Berlin 🧬
 - Developing skills in the field of Machine Learning 👾
