@@ -9,7 +9,7 @@ Active, peaceful, hardworking 🚀
 [Email](mailto:grom.dima.grom@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/gromdimon/)
  |  [Twitter](https://twitter.com/grom_dimon/)
 
-----
+---
 
 # Education
 * B.S. at Freie Universität Berlin\
@@ -24,6 +24,7 @@ Sep 2021 – Sep 2022
 Sep 2019 – Jul 2021
 ### Biology-Chemistry class
 
+---
 
 # Work experience
 * 12.2022-present: Student Research Assistant
