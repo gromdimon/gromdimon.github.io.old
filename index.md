@@ -31,7 +31,7 @@ Sep 2019 – Jul 2021
 Core Unit of Bioinformatics\
 Duties included: Software Engineering\
 Supervisor: Mikko Nieminen\
-Work on sodar-base project
+> Work on sodar-base project
 
 * 12.2021-04.2022: Software Developer\
 Jobguide\
@@ -54,7 +54,7 @@ Key skills: molecular biology, genomics, python scripting, big data manipulation
 | Theoretical | Math, Biochemistry, Statistics |
 | Programming languages | Python, bash, Haskell, JavaScript|
 | Frameworks | Django, FastAPI |
-| Hobby | Reading, Stocks & Crypto long-term investing, Dreaming|
+| Hobby | Reading, Stocks & Crypto long-term investing, Dreaming |
 
 ---
 
