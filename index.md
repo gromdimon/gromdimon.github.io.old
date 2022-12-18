@@ -48,6 +48,16 @@ Key skills: molecular biology, genomics, python scripting, big data manipulation
 
 ---
 
+# Skills:
+| Skills type | Skills |
+| ------------- | ------------- |
+| Theoretical | Math, Biochemistry, Statistics |
+| Programming languages | Python, bash, Haskell, JavaScript|
+| Frameworks | Django, FastAPI |
+| Hobby | Reading, Stocks & Crypto long-term investing, Dreaming|
+
+---
+
 # Internships & Other Employment
 * Hackathon participant, BCM_HGSC Hackathon: Oct. 2022 Remote
 Development of database query tool using python and writing a paper.
