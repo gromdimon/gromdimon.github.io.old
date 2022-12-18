@@ -1,9 +1,9 @@
 # Summary
-I am:\
-Working as a Software Engineer at CUBI 💻\
-Studying bioinformatics at FU-Berlin 🧬\
-Developing skills in the field of Machine Learning 👾\
-Active, peaceful, hardworking 🚀
+I am:
+- Working as a Software Engineer at CUBI 💻
+- Studying bioinformatics at FU-Berlin 🧬
+- Developing skills in the field of Machine Learning 👾
+- Active, peaceful, hardworking 🚀
 
 ### Reach me on:
 [Email](mailto:grom.dima.grom@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/gromdimon/)
