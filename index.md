@@ -104,15 +104,16 @@ of alternative sigma factor-promoter complexes\
 
 
 ---
+# Skills 
 
-| Table | Table |
-| Table | Table |
+| Theoretical | Languages | Programming | Frameworks | Hobbies |
+| --- | --- | --- | --- | --- |
+| Math | English (C1) | Python | Django | Dreaming and future planning |
+| Biochemistry | --- | --- | --- | --- |
+| Statistics | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 
-# Skills:
-### Theoretical
-+ Math
-+ Biochemistry
-+ Statistics
 
 ### Languages
 + English (C1)
