@@ -1,18 +1,30 @@
 # Summary
-Bioinformatician and Biologist based in Berlin, Germany
+I am:
+Working as a Software Engineer at CUBI 💻
+Studying bioinformatics at FU-Berlin 🧬
+Developing skills in the field of Machine Learning 👾
+Active, peaceful, hardworking 🚀
 
 ## Contact me on:
 [Email](mailto:grom.dima.grom@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/gromdimon/)
  |  [Twitter](https://twitter.com/grom_dimon/)
 
+
 # Education
-======
-* High School, Gomel State Regional Lyceum 2019-2021
-* B.S. in Biotechnology, Belarsian State University, 2021-2022
-* B.S. in Bioinformatics, Freie Universität Berlin, 2022-2025 (expected)
+* B.S. at Freie Universität Berlin
+Oct 2022 – Present
+### Bioinformatics
+
+* B.S. at Belarusian State University
+Sep 2021 – Sep 2022
+### Biotechnology
+
+* High School, Gomel State Regional Lyceum
+Sep 2019 – Jul 2021
+### Biology-Chemistry class
+
 
 # Work experience
-======
 * 12.2022-present: Student Research Assistant
 * Core Unit of Bioinformatics
 * Duties included: Software Engineering
