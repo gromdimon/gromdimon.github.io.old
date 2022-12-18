@@ -59,19 +59,21 @@ Key skills: molecular biology, genomics, python scripting, big data manipulation
 ---
 
 # Internships & Other Employment
-* Hackathon participant, BCM_HGSC Hackathon: Oct. 2022 Remote
-Development of database query tool using python and writing a paper.
+* Hackathon participant, BCM_HGSC Hackathon:\
+Oct. 2022 Remote\
+> Development of database query tool using python and writing a paper.
 
-* Biologist intern, Belarusian State University: Jul. 2022 Minsk, Belarus
-Eco-diversity research
+* Biologist intern, Belarusian State University:\
+Jul. 2022 Minsk, Belarus\
+> Eco-diversity research
 
-* Hackathon participant, FeatureCloud Hackathon: Jun. 2022
-Remote
-Metagenome research using Federated learning (ML) and Cloud computing.
+* Hackathon participant, FeatureCloud Hackathon:\
+Jun. 2022, Remote\
+> Metagenome research using Federated learning (ML) and Cloud computing.
 
-* Personal project: Apr. 2022 – May 2022
-Remote
-Using AlphaFold Artificial Intelligence and Azure ML for prediction Coronavirus glycoprotein structures.
+* Personal project:\
+Apr. 2022 – May 2022\
+> Using AlphaFold Artificial Intelligence and Azure ML for prediction Coronavirus glycoprotein structures.
 
 * Project Intern, LLBio-IT School – Nyberman: Jan. 2022 – March 2022 Remote
 Covid analysis from statistical and computational side.
