@@ -1,8 +1,8 @@
 # Summary
-I am:
-Working as a Software Engineer at CUBI 💻
-Studying bioinformatics at FU-Berlin 🧬
-Developing skills in the field of Machine Learning 👾
+I am:\
+Working as a Software Engineer at CUBI 💻\
+Studying bioinformatics at FU-Berlin 🧬\
+Developing skills in the field of Machine Learning 👾\
 Active, peaceful, hardworking 🚀
 
 ## Contact me on:
@@ -11,15 +11,15 @@ Active, peaceful, hardworking 🚀
 
 
 # Education
-* B.S. at Freie Universität Berlin
+* B.S. at Freie Universität Berlin\
 Oct 2022 – Present
 ### Bioinformatics
 
-* B.S. at Belarusian State University
+* B.S. at Belarusian State University\
 Sep 2021 – Sep 2022
 ### Biotechnology
 
-* High School, Gomel State Regional Lyceum
+* High School, Gomel State Regional Lyceum\
 Sep 2019 – Jul 2021
 ### Biology-Chemistry class
 
