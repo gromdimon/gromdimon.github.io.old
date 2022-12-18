@@ -64,7 +64,7 @@ within the genomical browser SigmoID.
 
 ---
 # Other activities
-* [Hackathon participant](https://www.hgsc.bcm.edu/events/hackathon), `BCM_HGSC Hackathon` \ 
+* [Hackathon participant](https://www.hgsc.bcm.edu/events/hackathon), `BCM_HGSC Hackathon`\ 
 Oct. 2022 Remote\
 > Development of database query tool using python and writing a paper.
 
@@ -81,7 +81,7 @@ Apr. 2022 – May 2022\
 > Using AlphaFold Artificial Intelligence and Azure ML for prediction Coronavirus
  glycoprotein structures.
 
-* [Project Intern](https://www.llbschool.org/internship-trainings), `LLBio-IT School – Nyberman` \ 
+* [Project Intern](https://www.llbschool.org/internship-trainings), `LLBio-IT School – Nyberman`\
 Jan. 2022 – March 2022, Remote\
 > Covid analysis from statistical and computational side.
 
@@ -97,7 +97,7 @@ Dec. 2021 – March 2022, Minsk, Belarus\
 Oct. 2021 – Dec. 2022, Minsk, Belarus\
 > My project for Space BSU program -  `Wat To Do`  Telegram bot
 
-* [Personal project](https://github.com/gromdimon/Bioactivity_prediction_project) \ 
+* [Personal project](https://github.com/gromdimon/Bioactivity_prediction_project)\
 May. 2021 – Jul. 2021\
 > Complete ML-project about prediction of chemical binding activity to Beta- Amyloid protein.
 
