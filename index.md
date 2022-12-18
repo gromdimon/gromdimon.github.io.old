@@ -64,12 +64,12 @@ within the genomical browser [SigmoID](https://github.com/nikolaichik/SigmoID).
 
 ---
 # Other activities
-* [Hackathon participant](https://www.hgsc.bcm.edu/events/hackathon), `BCM_HGSC Hackathon`\ 
-Oct. 2022 Remote\
+* [Hackathon participant](https://www.hgsc.bcm.edu/events/hackathon), `BCM_HGSC Hackathon`\
+Oct. 2022, Remote\
 > Development of database query tool using python and writing a paper.
 
 * [Biologist intern](https://bsu.by/en/), `Belarusian State University` \
-Jul. 2022 Minsk, Belarus\
+Jul. 2022, Minsk, Belarus\
 > Eco-diversity research
 
 * [Hackathon participant](https://featurecloud.ai/hackathon-2022), `FeatureCloud Hackathon` \
