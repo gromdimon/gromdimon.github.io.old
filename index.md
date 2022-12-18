@@ -27,19 +27,19 @@ Sep 2019 – Jul 2021
 ---
 
 # Work experience
-* 12.2022-present: Student Research Assistant\
+* 12.2022-present: `Student Research Assistant`\
 Core Unit of Bioinformatics\
 Duties included: Software Engineering\
 Supervisor: Mikko Nieminen\
 > Work on sodar-base project Key skills: Django, mySQL, Rest.
 
-* 12.2021-04.2022: Software Developer\
+* 12.2021-04.2022: `Software Developer`\
 Jobguide\
 Duties included: Software engineering\
 Supervisor: Dr. Yevgeny Nikolaichik\
 > Web development and support of the JobGuide website. Key skills: Django, mySQL, Rest.
 
-* 11.2021-09.2022: Student Research Assistant\
+* 11.2021-09.2022: `Student Research Assistant`\
 Belarusian State University\
 Duties included: Software engineering, research condunct\
 Supervisor: Dr. Yevgeny Nikolaichik\
@@ -64,10 +64,10 @@ Key skills: molecular biology, genomics, python scripting, big data manipulation
 + Rest
 + FastAPI
 
-### Perks from my hobbies
+### Hobbies (but are getting to skills)
++ Dreaming and future planning
 + Reading
 + Stocks & Crypto long-term investing
-+ Dreaming
 
 ---
 
@@ -96,13 +96,13 @@ Jan. 2022 – March 2022, Remote\
 Jan. 2022 – Feb. 2022, Remote\
 > Dementia research, GWAS, pipeline building (Snakemake)
 
-* Personal Project `EesyFood`\
+* Personal Project  `EesyFood`\
 Dec. 2021 – March 2022, Minsk, Belarus\
 > Development of MVP `EesyFood` using FastAPI, Flask, SQLite.
 
-* Personal Project `Wat To Do`\
+* Personal Project  `Wat To Do`\
 Oct. 2021 – Dec. 2022, Minsk, Belarus\
-> My project for Space BSU program - `Wat To Do` Telegram bot
+> My project for Space BSU program -  `Wat To Do`  Telegram bot
 
 * Personal project\ 
 May. 2021 – Jul. 2021\
