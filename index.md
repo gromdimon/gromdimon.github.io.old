@@ -27,22 +27,22 @@ Sep 2019 – Jul 2021
 ---
 
 # Work experience
-* 12.2022-present: `Student Research Assistant`\
-Core Unit of Bioinformatics\
-Duties included: Software Engineering\
+* `Student Research Assistant` at Core Unit of Bioinformatics\
+12.2022-present\
 Supervisor: Mikko Nieminen\
+### Duties included: Software Engineering
 > Work on sodar-base project Key skills: Django, mySQL, Rest.
 
-* 12.2021-04.2022: `Software Developer`\
-Jobguide\
-Duties included: Software engineering\
+* `Software Developer` at Jobguide\
+12.2021-04.2022\
 Supervisor: Dr. Yevgeny Nikolaichik\
+### Duties included: Software engineering
 > Web development and support of the JobGuide website. Key skills: Django, mySQL, Rest.
 
-* 11.2021-09.2022: `Student Research Assistant`\
-Belarusian State University\
-Duties included: Software engineering, research condunct\
+* `Student Research Assistant` at Belarusian State University\
+11.2021-09.2022\
 Supervisor: Dr. Yevgeny Nikolaichik\
+### Duties included: Software engineering, research condunct
 > Development of a pipeline for automatic annotation of promoters in bacterial genomes within the genomical browser SigmoID.
 Key skills: molecular biology, genomics, python scripting, big data manipulation, data analysis, linux, pipeline building.
 
