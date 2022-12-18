@@ -46,28 +46,6 @@ Supervisor: Dr. Yevgeny Nikolaichik\
 > Development of a pipeline for automatic annotation of promoters in bacterial genomes within the genomical browser SigmoID.
 Key skills: molecular biology, genomics, python scripting, big data manipulation, data analysis, linux, pipeline building.
 
----
-
-# Skills:
-### Theoretical
-+ Math
-+ Biochemistry
-+ Statistics
-
-### Programming languages
-+ Python
-+ bash
-+ Haskell
-
-### Frameworks
-+ Django
-+ Rest
-+ FastAPI
-
-### Hobbies (but are getting to skills)
-+ Dreaming and future planning
-+ Reading
-+ Stocks & Crypto long-term investing
 
 ---
 
@@ -111,8 +89,39 @@ May. 2021 – Jul. 2021\
 ---
 
 # Awards & Publications
-- BGRSSB Conference / DOI 10.18699/SBB-2022-030
-- CTDA Conference / ISBN 978-985-566-942-6 (link)
-- Protein Structure prediction using AlphaFold2 / loopsnstrands journal (link)
-- Belarusian biological Olympiad, 2 degree diploma of the republic stage (Top 10 in Belarus)
-- MIPT biological Olympiad, 2 degree diploma of the final stage (Top 20 in the overall standings)
+- Hramyka D., Vychyk P., Nikolaichik Y. \
+> Promoter motif inference and annotation of promoter sequences 
+in bacterial genomes based on the analysis of structures 
+of alternative sigma factor-promoter complexes\
+[BGRSSB Conference](https://disk.icgbio.ru/s/ejG5gRfYGRpML25), 2021
+- Громыко Д., Вычик П., Николайчик Е.\
+> Идентификация промоторов на основе анализа структур альтернативных сигма-факторов бактерий\
+[CTDA Conference](https://ctda.rfe.by/media/docs/2022/konf/CTDA-2022-matherials-epub-before-print.pdf), 2021
+- MIPT biological Olympiad\
+> 2 degree diploma of the final stage (Top 20 in the overall standings), 2020
+- Belarusian biological Olympiad\
+> 2 degree diploma of the republic stage (Top 10 in Belarus), 2020
+
+
+---
+
+# Skills:
+### Theoretical
++ Math
++ Biochemistry
++ Statistics
+
+### Programming languages
++ Python
++ bash
++ Haskell
+
+### Frameworks
++ Django
++ Rest
++ FastAPI
+
+### Hobbies (but are getting to skills)
++ Dreaming and future planning
++ Reading
++ Stocks & Crypto long-term investing
