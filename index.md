@@ -9,6 +9,7 @@ Active, peaceful, hardworking 🚀
 [Email](mailto:grom.dima.grom@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/gromdimon/)
  |  [Twitter](https://twitter.com/grom_dimon/)
 
+----
 
 # Education
 * B.S. at Freie Universität Berlin\
