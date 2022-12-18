@@ -5,22 +5,12 @@ Studying bioinformatics at FU-Berlin 🧬\
 Developing skills in the field of Machine Learning 👾\
 Active, peaceful, hardworking 🚀
 
-## Contact me on:
+### Reach me on:
 [Email](mailto:grom.dima.grom@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/gromdimon/)
  |  [Twitter](https://twitter.com/grom_dimon/)
 
----
-# Skills 
-
-| Theoretical | Languages | Programming | Frameworks | Hobbies |
-| --- | --- | --- | --- | --- |
-| Math | English (C1) | Python | Django | Dreaming and future planning |
-| Biochemistry | German (C2) | bash | Rest | Reading |
-| Statistics | Belorussian (Native) | Haskell | FastAPI | tocks & Crypto long-term investing |
-| --- | Russian (Native) | --- | --- | --- |
 
 ---
-
 # Education
 * B.S. at Freie Universität Berlin\
 Oct 2022 – Present
@@ -34,8 +24,8 @@ Sep 2021 – Sep 2022
 Sep 2019 – Jul 2021
 ### Biology-Chemistry class
 
----
 
+---
 # Work experience
 * `Student Research Assistant` at [Core Unit of Bioinformatics](https://www.cubi.bihealth.org/)\
 12.2022-present\
@@ -61,8 +51,18 @@ within the genomical browser SigmoID.
 
 
 ---
+# Skills 
 
-# Internships & Other Employment
+| Theoretical | Languages | Programming | Frameworks | Hobbies |
+| --- | --- | --- | --- | --- |
+| Math | English (C1) | Python | Django | Dreaming and future planning |
+| Biochemistry | German (C2) | bash | Rest | Reading |
+| Statistics | Belorussian (Native) | Haskell | FastAPI | tocks & Crypto long-term investing |
+| --- | Russian (Native) | --- | --- | --- |
+
+
+---
+# Other activities
 * Hackathon participant, `BCM_HGSC Hackathon`\
 Oct. 2022 Remote\
 > Development of database query tool using python and writing a paper.
@@ -100,8 +100,8 @@ Oct. 2021 – Dec. 2022, Minsk, Belarus\
 May. 2021 – Jul. 2021\
 > Complete ML-project about prediction of chemical binding activity to Beta- Amyloid protein.
 
----
 
+---
 # Awards & Publications
 - Hramyka D., Vychyk P., Nikolaichik Y. \
 > Promoter motif inference and annotation of promoter sequences 
@@ -115,3 +115,4 @@ of alternative sigma factor-promoter complexes\
 > 2 degree diploma of the final stage (Top 20 in the overall standings), 2020
 - Belarusian biological Olympiad\
 > 2 degree diploma of the republic stage (Top 10 in Belarus), 2020
+
