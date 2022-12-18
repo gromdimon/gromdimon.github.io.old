@@ -49,19 +49,22 @@ Key skills: molecular biology, genomics, python scripting, big data manipulation
 ---
 
 # Skills:
-## Theoretical
+### Theoretical
 + Math
 + Biochemistry
 + Statistics
-## Programming languages
+
+### Programming languages
 + Python
 + bash
 + Haskell
-## Frameworks
+
+### Frameworks
 + Django
 + Rest
 + FastAPI
-## Perks from my hobbies
+
+### Perks from my hobbies
 + Reading
 + Stocks & Crypto long-term investing
 + Dreaming
