@@ -1,11 +1,12 @@
 # Summary
-I am:
+### I :
 - Working as a Software Engineer at CUBI 💻
 - Studying bioinformatics at FU-Berlin 🧬
 - Developing skills in the field of Machine Learning 👾
 - Active, peaceful, hardworking 🚀
 
-### Reach me on:
+
+### You can reach me on:
 [Email](mailto:grom.dima.grom@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/gromdimon/)
  |  [Twitter](https://twitter.com/grom_dimon/)
 
@@ -57,7 +58,7 @@ within the genomical browser SigmoID.
 | --- | --- | --- | --- | --- |
 | Math | English (C1) | Python | Django | Dreaming and future planning |
 | Biochemistry | German (C2) | bash | Rest | Reading |
-| Statistics | Belorussian (Native) | Haskell | FastAPI | tocks & Crypto long-term investing |
+| Statistics | Belorussian (Native) | Haskell | FastAPI | Stocks & Crypto long-term investing |
 | --- | Russian (Native) | --- | --- | --- |
 
 
