@@ -41,20 +41,23 @@ Sep 2019 – Jul 2021
 12.2022-present\
 Supervisor: Mikko Nieminen\
 ### Duties included: Software Engineering
-> Work on sodar-base project Key skills: Django, mySQL, Rest.
+> Work on sodar-base project 
+>> Key skills: Django, mySQL, Rest.
 
 * `Software Developer` at [Jobguide](https://jobguide.ru/)\
 12.2021-04.2022\
 Supervisor: Dr. Yevgeny Nikolaichik\
 ### Duties included: Software engineering
-> Web development and support of the JobGuide website. Key skills: Django, mySQL, Rest.
+> Web development and support of the JobGuide website. 
+>> Key skills: Django, mySQL, Rest.
 
 * `Student Research Assistant` at [Belarusian State University](https://bsu.by/en/)\
 11.2021-09.2022\
 Supervisor: Dr. Yevgeny Nikolaichik\
 ### Duties included: Software engineering, research condunct
-> Development of a pipeline for automatic annotation of promoters in bacterial genomes within the genomical browser SigmoID.
-Key skills: molecular biology, genomics, python scripting, big data manipulation, data analysis, linux, pipeline building.
+> Development of a pipeline for automatic annotation of promoters in bacterial genomes 
+within the genomical browser SigmoID.
+>> Key skills: molecular biology, genomics, python scripting, big data manipulation, data analysis, linux, pipeline building.
 
 
 ---
@@ -74,7 +77,8 @@ Jun. 2022, Remote\
 
 * Personal project\
 Apr. 2022 – May 2022\
-> Using AlphaFold Artificial Intelligence and Azure ML for prediction Coronavirus glycoprotein structures.
+> Using AlphaFold Artificial Intelligence and Azure ML for prediction Coronavirus
+ glycoprotein structures.
 
 * Project Intern, `LLBio-IT School – Nyberman` \ 
 Jan. 2022 – March 2022, Remote\
@@ -111,8 +115,3 @@ of alternative sigma factor-promoter complexes\
 > 2 degree diploma of the final stage (Top 20 in the overall standings), 2020
 - Belarusian biological Olympiad\
 > 2 degree diploma of the republic stage (Top 10 in Belarus), 2020
-
-
-
-
-
