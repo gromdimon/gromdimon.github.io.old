@@ -66,11 +66,11 @@ Jun. 2022, Remote\
 Apr. 2022 – May 2022\
 > Using AlphaFold Artificial Intelligence and Azure ML for prediction Coronavirus glycoprotein structures.
 
-* Project Intern, `LLBio-IT School – Nyberman`\ 
+* Project Intern, `LLBio-IT School – Nyberman` \ 
 Jan. 2022 – March 2022, Remote\
 > Covid analysis from statistical and computational side.
 
-* Hackathon participant, `Neurohack hackathon\`
+* Hackathon participant, `Neurohack hackathon` \
 Jan. 2022 – Feb. 2022, Remote\
 > Dementia research, GWAS, pipeline building (Snakemake)
 
