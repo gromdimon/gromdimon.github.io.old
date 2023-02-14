@@ -2,7 +2,7 @@
 
 - Working as a Software Engineer at CUBI 💻
 - Studying bioinformatics at FU-Berlin 🧬
-- Developing skills in the field of Machine Learning 👾
+- Developing skills in the field of AI / ML 👾
 - Active, peaceful, hardworking 🚀
 
 
