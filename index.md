@@ -37,7 +37,6 @@ Supervisor: Mikko Nieminen\
 
 * `Software Developer` at [Jobguide](https://jobguide.ru/)\
 12.2021-04.2022\
-Supervisor: Dr. Yevgeny Nikolaichik\
 > Duties included: Software engineering\
 > Developed a website for the JobGuide.
 >> Key skills: Django, mySQL, Rest.
@@ -57,9 +56,9 @@ within the genomical browser [SigmoID](https://github.com/nikolaichik/SigmoID).
 | Theoretical | Languages | Programming | Frameworks | Hobbies |
 | --- | --- | --- | --- | --- |
 | Math | English (C1) | Python | Django | Dreaming and future planning |
-| Biochemistry | German (C2) | bash | Django Rest Framework | Reading |
+| Biochemistry | German (C2) | JavaScript | Django Rest Framework | Reading |
 | Statistics | Belarussian (Native) | Haskell | FastAPI | Stocks & Crypto long-term investing |
-| --- | Russian (Native) | --- | --- | --- |
+| --- | Russian (Native) | bash | --- | --- |
 
 
 ---
