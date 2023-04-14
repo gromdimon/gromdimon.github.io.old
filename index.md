@@ -53,12 +53,13 @@ within the genomical browser [SigmoID](https://github.com/nikolaichik/SigmoID).
 ---
 # Skills 
 
-| Theoretical | Languages | Programming | Frameworks | Hobbies |
-| --- | --- | --- | --- | --- |
-| Math | English (C1) | Python | Django | Dreaming and future planning |
-| Biochemistry | German (C2) | JavaScript | Django Rest Framework | Reading |
-| Statistics | Belarussian (Native) | Haskell | FastAPI | Stocks & Crypto long-term investing |
-| --- | Russian (Native) | bash | --- | --- |
+| Theoretical | Languages | Programming | Frameworks | Other | Hobbies |
+| --- | --- | --- | --- | --- | --- |
+| Math | English (C1) | Python | Django | Docker | Dreaming and future planning |
+| Biochemistry | German (C2) | JavaScript | DRF | Git | Reading |
+| Statistics | Belarussian (Native) | C++ | FastAPI | Redis & Celery | Stocks & Crypto long-term investing |
+| --- | Russian (Native) | bash | Pytorch | --- | --- |
+| --- | --- | Haskell | Vue.js | --- | --- |
 
 
 ---
