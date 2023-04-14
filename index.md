@@ -57,9 +57,9 @@ within the genomical browser [SigmoID](https://github.com/nikolaichik/SigmoID).
 | --- | --- | --- | --- | --- | --- |
 | Math | English (C1) | Python | Django | Docker | Dreaming and future planning |
 | Biochemistry | German (C2) | JavaScript | DRF | Git | Reading |
-| Statistics | Belarussian (Native) | C++ | FastAPI | Redis & Celery | Stocks & Crypto long-term investing |
-| --- | Russian (Native) | bash | Pytorch | --- | --- |
-| --- | --- | Haskell | Vue.js | --- | --- |
+| Statistics | Belarussian (Native) | C++ | FastAPI | SQL | Stocks & Crypto long-term investing |
+| --- | Russian (Native) | bash | Pytorch | Postgresql | --- |
+| --- | --- | Haskell | Vue.js | Redis & Celery | --- |
 
 
 ---
