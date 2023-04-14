@@ -28,7 +28,7 @@ Sep 2019 – Jul 2021
 
 ---
 # Work experience
-* `Student Research Assistant` at [Core Unit of Bioinformatics](https://www.cubi.bihealth.org/)\
+* `Software Engineer` at [Core Unit of Bioinformatics](https://www.cubi.bihealth.org/)\
 12.2022-present\
 Supervisor: Mikko Nieminen\
 > Duties included: Software Engineering\
