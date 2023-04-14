@@ -32,7 +32,7 @@ Sep 2019 – Jul 2021
 12.2022-present\
 Supervisor: Mikko Nieminen\
 > Duties included: Software Engineering\
-> Worked on the sodar-core web-application.
+> Worked on the sodar and sodar-core web-applications.
 >> Key skills: Django, mySQL, Rest.
 
 * `Software Developer` at [Jobguide](https://jobguide.ru/)\
