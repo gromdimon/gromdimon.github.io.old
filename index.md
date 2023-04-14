@@ -53,14 +53,13 @@ within the genomical browser [SigmoID](https://github.com/nikolaichik/SigmoID).
 ---
 # Crass Skills Summary
 
-| Academical-Theoretical | Languages | Programming languages | Different | Different | Hobbies |
+| Academical-Theoretical | Languages | Programming languages | Different | Different | Different | Hobbies |
 | --- | --- | --- | --- | --- | --- |
-| Math | English (C1) | Python | Django | Docker | Dreaming and future planning |
-| Biochemistry | German (C2) | JavaScript | DRF | Git | Reading |
-| Statistics | Belarussian (Native) | C++ | FastAPI | SQL | Stocks & Crypto long-term investing |
-| --- | Russian (Native) | bash | Pytorch | Postgresql | --- |
-| --- | --- | Haskell | HTML & CSS | jQuery | --- |
-| --- | --- | --- | Vue.js | Redis & Celery | --- |
+| Math | English (C1) | Python | Django | Docker | Linux | Dreaming and future planning |
+| Biochemistry | German (C2) | JavaScript | DRF | Git | Redis & Celery | Reading |
+| Statistics | Belarussian (Native) | C++ | FastAPI | SQL | Vue.js | Stocks & Crypto long-term investing |
+| --- | Russian (Native) | bash | Pytorch | PostgreSQL | --- | --- |
+| --- | --- | Haskell | HTML & CSS | jQuery | --- | --- |
 
 
 ---
