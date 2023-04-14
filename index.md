@@ -51,7 +51,7 @@ within the genomical browser [SigmoID](https://github.com/nikolaichik/SigmoID).
 
 
 ---
-# Skills 
+# Crass Skills Summary
 
 | Theoretical | Languages | Programming | Frameworks | Other | Hobbies |
 | --- | --- | --- | --- | --- | --- |
