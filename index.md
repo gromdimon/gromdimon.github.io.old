@@ -104,15 +104,15 @@ May. 2021 – Jul. 2021\
 
 ---
 # Awards, Honors & Publications
-- SODAR: managing multi-omics study data and metadata \
+- SODAR: managing multi-omics study data and metadata\
 > [bioRxiv](https://doi.org/10.1101/2022.08.19.504516), 2023
-- Harnessing Transcriptomic Signals for Amyotrophic Lateral Sclerosis to Identify Novel Drugs and Enhance Risk Prediction \
+- Harnessing Transcriptomic Signals for Amyotrophic Lateral Sclerosis to Identify Novel Drugs and Enhance Risk Prediction\
 > [medRxiv](https://www.medrxiv.org/content/10.1101/2023.01.18.23284589v2), 2023
 - Promoter motif inference and annotation of promoter sequences 
 in bacterial genomes based on the analysis of structures 
 of alternative sigma factor-promoter complexes\
 > [BGRSSB Conference](https://disk.icgbio.ru/s/ejG5gRfYGRpML25), 2022
-- Идентификация промоторов на основе анализа структур альтернативных сигма-факторов бактерий\
+- Bacterial promoter identification based on 3D structures of alternative sigma-factors\
 > [CTDA Conference](https://ctda.rfe.by/media/docs/2022/konf/CTDA-2022-matherials-epub-before-print.pdf), 2022
 - MIPT biological Olympiad\
 > 2 degree diploma of the final stage (Top 20 in the overall standings), 2020
