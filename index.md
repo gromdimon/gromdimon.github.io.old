@@ -105,7 +105,7 @@ May. 2021 – Jul. 2021\
 ---
 # Awards, Honors & Publications
 - SODAR: managing multi-omics study data and metadata \
-- > [bioRxiv](https://doi.org/10.1101/2022.08.19.504516), 2023
+> [bioRxiv](https://doi.org/10.1101/2022.08.19.504516), 2023
 - Harnessing Transcriptomic Signals for Amyotrophic Lateral Sclerosis to Identify Novel Drugs and Enhance Risk Prediction \
 > [medRxiv](https://www.medrxiv.org/content/10.1101/2023.01.18.23284589v2), 2023
 - Promoter motif inference and annotation of promoter sequences 
