@@ -34,6 +34,7 @@ Sep 2019 – Jul 2021
 >> Full-stack Web Development\
 >> Build [reev](https://github.com/bihealth/reev) project from scratch.\
 >>> Key skills: Vue3, Vuetify, Typescript, FastAPI
+
 > 12.2022-07.2023
 >> Supervisor: Mikko Nieminen\
 >> Backend development\
