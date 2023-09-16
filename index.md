@@ -13,11 +13,11 @@
 
 ---
 # Education
-* B.S. at Freie Universität Berlin\
+* B.Sc. at Freie Universität Berlin\
 Oct 2022 – Present
 ### Bioinformatics
 
-* B.S. at Belarusian State University\
+* B.Sc. at Belarusian State University\
 Sep 2021 – Sep 2022
 ### Biotechnology
 
@@ -29,17 +29,23 @@ Sep 2019 – Jul 2021
 ---
 # Work experience
 * `Software Engineer` at [Core Unit of Bioinformatics](https://www.cubi.bihealth.org/)\
-12.2022-present\
+08.2023-present\
+> Full-stack Web Development\
+> Worked on the reev project.
+>> Key skills: Vue3, Vuetify, Typescript, FastAPI
+
+* `Software Engineer` at [Core Unit of Bioinformatics](https://www.cubi.bihealth.org/)\
+12.2022-07.2023\
 Supervisor: Mikko Nieminen\
-> Duties included: Software Engineering\
+> Backend development
 > Worked on the sodar and sodar-core web-applications.
->> Key skills: Django, mySQL, Rest.
+>> Key skills: Django, PostgreSQL.
 
 * `Software Developer` at [Jobguide](https://jobguide.ru/)\
 12.2021-04.2022\
-> Duties included: Software engineering\
+> Backend development
 > Developed a website for the JobGuide.
->> Key skills: Django, mySQL, Rest.
+>> Key skills: Django, mySQL.
 
 * `Student Research Assistant` at [Belarusian State University](https://bsu.by/en/)\
 11.2021-09.2022\
@@ -47,18 +53,18 @@ Supervisor: Dr. Yevgeny Nikolaichik\
 > Duties included: Software engineering, Research condunct\
 > Developed a pipeline for automatic annotation of promoters in bacterial genomes 
 within the genomical browser [SigmoID](https://github.com/nikolaichik/SigmoID).
->> Key skills: molecular biology, genomics, python scripting, big data manipulation, data analysis, linux, pipeline building.
+>> Key skills: molecular biology, genomics, python scripting, big data manipulation, data analysis.
 
 
 ---
-# Crass Skills Summary
+# Skills Summary
 
 | Academical-Theoretical | Languages | Programming languages | Different | Different | Different | Hobbies |
 | --- | --- | --- | --- | --- | --- |
 | Math | English (C1) | Python | Django | Docker | Linux | Dreaming and future planning |
-| Biochemistry | German (C2) | JavaScript | DRF | Git | Redis & Celery | Reading |
-| Statistics | Belarussian (Native) | C++ | FastAPI | SQL | Vue.js | Stocks & Crypto long-term investing |
-| --- | Russian (Native) | bash | Pytorch | PostgreSQL | --- | --- |
+| CS | German (C2) | JavaScript | DRF | Git | Redis & Celery | Reading |
+| Biochemistry | Belarussian (Native) | C++ | FastAPI | SQL | Vue.js | Stocks & Crypto long-term investing |
+| Statistics | Russian (Native) | bash | Pytorch | PostgreSQL | --- | --- |
 | --- | --- | Haskell | HTML & CSS | jQuery | --- | --- |
 
 
