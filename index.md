@@ -59,17 +59,21 @@ within the genomical browser [SigmoID](https://github.com/nikolaichik/SigmoID).
 ---
 # Skills Summary
 
-| Academical-Theoretical | Languages | Programming languages | Different | Different | Different | Hobbies |
-| --- | --- | --- | --- | --- | --- |
-| Math | English (C1) | Python | Django | Docker | Linux | Dreaming and future planning |
-| CS | German (C2) | JavaScript | DRF | Git | Redis & Celery | Reading |
-| Biochemistry | Belarussian (Native) | C++ | FastAPI | SQL | Vue.js | Stocks & Crypto long-term investing |
-| Statistics | Russian (Native) | bash | Pytorch | PostgreSQL | --- | --- |
-| --- | --- | Haskell | HTML & CSS | jQuery | --- | --- |
+**Academical-Theoretical:** Math, CS, Biochemistry, Statistics
+**Languages:** English (C1), German (C2), Belarussian (Native), Russian (Native)
+**Programming Languages:** Python, TypeScript, JavaScript, C++
+**Backend Technologies:** Django, FastAPI, Django Rest Framework, PyTorch
+**Frontend Technologies:** Vue3, Vuetify, Bootstrap4, HTML5 & CSS, jQuery
+**Different Tools:** Docker, Terraform, Git, Redis & Celery, PostgreSQL, MySQL, Linux
+**Other Interests and Hobbies:** Gym, Dreaming and future planning, Reading, Stocks & Crypto long-term investing
 
 
 ---
 # Other activities
+* [Kaggle Contest](https://www.kaggle.com/competitions/open-problems-multimodal), `MmSCel`\
+Nov. 2022, Remote\
+> Development of verios ML Models.
+
 * [Hackathon participant](https://www.hgsc.bcm.edu/events/hackathon), `BCM_HGSC Hackathon`\
 Oct. 2022, Remote\
 > Development of database query tool using python and writing a paper.
