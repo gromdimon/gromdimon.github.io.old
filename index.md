@@ -28,13 +28,13 @@ Sep 2019 – Jul 2021
 
 ---
 # Work experience
+
 * `Software Engineer` at [Core Unit of Bioinformatics](https://www.cubi.bihealth.org/)\
 08.2023-present\
 > Full-stack Web Development\
 > Worked on the reev project.
 >> Key skills: Vue3, Vuetify, Typescript, FastAPI
 
-* `Software Engineer` at [Core Unit of Bioinformatics](https://www.cubi.bihealth.org/)\
 12.2022-07.2023\
 Supervisor: Mikko Nieminen\
 > Backend development
