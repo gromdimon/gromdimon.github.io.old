@@ -31,15 +31,15 @@ Sep 2019 – Jul 2021
 
 * `Software Engineer` at [Core Unit of Bioinformatics](https://www.cubi.bihealth.org/)
 > 08.2023-present
->> Full-stack Web Development\
->> Build [reev](https://github.com/bihealth/reev) project from scratch.
->>> Key skills: Vue3, Vuetify, Typescript, FastAPI 
-\
+ >> Full-stack Web Development\
+ >> Build [reev](https://github.com/bihealth/reev) project from scratch.
+  >>> Key skills: Vue3, Vuetify, Typescript, FastAPI 
+
 > 12.2022-07.2023
->> Supervisor: Mikko Nieminen\
->> Backend development\
->> Worked on the [sodar](https://github.com/bihealth/sodar-server) and [sodar-core](https://github.com/bihealth/sodar-core) web-applications.
->>> Key skills: Django, PostgreSQL.
+ >> Supervisor: Mikko Nieminen\
+ >> Backend development\
+ >> Worked on the [sodar](https://github.com/bihealth/sodar-server) and [sodar-core](https://github.com/bihealth/sodar-core) web-applications.
+  >>> Key skills: Django, PostgreSQL.
 
 * `Software Developer` at [Jobguide](https://jobguide.ru/)
 > 12.2021-04.2022
