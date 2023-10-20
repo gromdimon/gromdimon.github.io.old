@@ -72,7 +72,7 @@ within the genomical browser [SigmoID](https://github.com/nikolaichik/SigmoID).
 
 **Different Tools:** Docker, Terraform, Git, Redis & Celery, PostgreSQL, MySQL, Linux
 
-**Other Interests and Hobbies:** Gym, Dreaming and future planning, Reading, Stocks & Crypto long-term investing
+**Other Interests and Hobbies:** Fencing, Stocks & Crypto long-term investing
 
 
 ---
