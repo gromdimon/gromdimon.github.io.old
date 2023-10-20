@@ -77,6 +77,10 @@ within the genomical browser [SigmoID](https://github.com/nikolaichik/SigmoID).
 
 ---
 # Other activities
+* [Bootcamp participant](https://fullstackdeeplearning.com/llm-bootcamp/), `LLM Bootcamp`\
+Oct. 2023, Remote\
+> Build full-stack AI assistant.
+
 * [Kaggle Contest](https://www.kaggle.com/competitions/open-problems-multimodal), `MmSCel`\
 Nov. 2022, Remote\
 > Development of verios ML Models.
