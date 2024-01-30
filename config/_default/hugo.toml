@@ -1,7 +1,7 @@
-baseURL = "https://varfish-org.github.io/"
-title = "VarFish - Variant Analysis"
-author = "VarFish Team"
-copyright = "VarFish Team"
+baseURL = "https://gromdimon.github.io/"
+title = "CV of Dzmitry Hramyka"
+author = "Dzmitry Hramyka"
+copyright = "Dzmitry Hramyka"
 paginate = 10
 languageCode = "en-us"
 enableGitInfo = true
