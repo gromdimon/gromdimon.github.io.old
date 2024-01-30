@@ -1,0 +1,16 @@
+time_format_default = "Jan 2, 2006"
+
+# SEO keywords and description for site
+keywords = "varfish, genetics, vcf"
+subtitle = "VarFish Homepage"
+
+# dir name of your blog content (default is `content/posts`).
+# the list of set content will show up on your index page (baseurl).
+contentTypeName = "post"
+
+[header]
+  logo = "logo.svg"
+
+[footer]
+  since = 2024
+  poweredby = false

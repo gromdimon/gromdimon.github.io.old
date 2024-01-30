@@ -1,0 +1,54 @@
+baseURL = "https://varfish-org.github.io/"
+title = "VarFish - Variant Analysis"
+author = "VarFish Team"
+copyright = "VarFish Team"
+paginate = 10
+languageCode = "en-us"
+enableGitInfo = true
+theme = "tailwind"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "index"
+    name = "Home"
+    pageRef = "/"
+    weight = 100
+
+  # [[menu.main]]
+  #   identifier = "post"
+  #   name = "Post"
+  #   pageRef = "/posts"
+  #   weight = 0
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 200
+
+
+# [taxonomies]
+# category = "categories"
+# tag = "tags"
+# series = "series"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
