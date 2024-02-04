@@ -1,2 +1,2 @@
-# varfish-org.github.io
+# My CV
 GitHub pages website

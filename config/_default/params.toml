@@ -9,7 +9,7 @@ subtitle = "CV"
 contentTypeName = "post"
 
 [header]
-  logo = "logo.svg"
+  logo = "photo.png"
 
 [footer]
   since = 2024
