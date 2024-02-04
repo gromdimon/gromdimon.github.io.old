@@ -1,0 +1,89 @@
+baseURL = "https://gromdimon.github.io/"
+title = "Personal page"
+author = "Dzmitry Hramyka"
+copyright = "Dzmitry Hramyka"
+paginate = 10
+languageCode = "en-us"
+enableGitInfo = true
+theme = "tailwind"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "index"
+    name = "Home"
+    pageRef = "/"
+    weight = 100
+
+  # [[menu.main]]
+  #   identifier = "post"
+  #   name = "Post"
+  #   pageRef = "/posts"
+  #   weight = 0
+
+  # [[menu.main]]
+  #   identifier = "about"
+  #   name = "About"
+  #   pageRef = "/about"
+  #   weight = 200
+
+  [[menu.main]]
+    identifier = "education"
+    name = "Education"
+    pageRef = "/education"
+    weight = 300
+ 
+  [[menu.main]]
+    identifier = "work"
+    name = "Work Experience"
+    pageRef = "/work"
+    weight = 400
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    pageRef = "/projects"
+    weight = 500
+
+  [[menu.main]]
+    identifier = "skills"
+    name = "Skills"
+    pageRef = "/skills"
+    weight = 600
+
+  [[menu.main]]
+    identifier = "achievements"
+    name = "Achievements"
+    pageRef = "/achievements"
+    weight = 700
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    pageRef = "/contact"
+
+
+# [taxonomies]
+# category = "categories"
+# tag = "tags"
+# series = "series"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
