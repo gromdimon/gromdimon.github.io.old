@@ -15,3 +15,23 @@ contentTypeName = "post"
 [footer]
   since = 2024
   poweredby = false
+  
+[social_media]
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Twitter'
+    icon = 'brand-x'
+    link = 'https://twitter.com/grom_dimon/'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'LinkedIn'
+    icon = 'brand-linkedin'
+    link = 'https://www.linkedin.com/in/gromdimon/'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/gromdimon'

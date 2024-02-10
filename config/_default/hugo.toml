@@ -7,6 +7,12 @@ languageCode = "en-us"
 enableGitInfo = true
 theme = "tailwind"
 
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
 [menu]
 
   [[menu.main]]
@@ -21,23 +27,23 @@ theme = "tailwind"
   #   pageRef = "/posts"
   #   weight = 0
 
-  # [[menu.main]]
-  #   identifier = "about"
-  #   name = "About"
-  #   pageRef = "/about"
-  #   weight = 200
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    pageRef = "/about"
+    weight = 200
 
-  [[menu.main]]
-    identifier = "education"
-    name = "Education"
-    pageRef = "/education"
-    weight = 300
+  # [[menu.main]]
+  #   identifier = "education"
+  #   name = "Education"
+  #   pageRef = "/education"
+  #   weight = 300
  
-  [[menu.main]]
-    identifier = "work"
-    name = "Work Experience"
-    pageRef = "/work"
-    weight = 400
+  # [[menu.main]]
+  #   identifier = "work"
+  #   name = "Work Experience"
+  #   pageRef = "/work"
+  #   weight = 400
 
   [[menu.main]]
     identifier = "projects"
@@ -45,15 +51,15 @@ theme = "tailwind"
     pageRef = "/projects"
     weight = 500
 
-  [[menu.main]]
-    identifier = "skills"
-    name = "Skills"
-    pageRef = "/skills"
-    weight = 600
+  # [[menu.main]]
+  #   identifier = "skills"
+  #   name = "Skills"
+  #   pageRef = "/skills"
+  #   weight = 600
 
   [[menu.main]]
     identifier = "achievements"
-    name = "Achievements"
+    name = "Publications,Honors&Awards"
     pageRef = "/achievements"
     weight = 700
 
