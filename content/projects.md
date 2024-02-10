@@ -4,7 +4,6 @@ author = "Dzmitry Hramyka"
 toc = true
 showReadingTime = false
 +++
-To enhance the markdown with more detailed information about the technologies used in each of your projects and participations, I'll expand on each entry to highlight your technical contributions and the tools you employed.
 
 ---
 ## Projects and Participations

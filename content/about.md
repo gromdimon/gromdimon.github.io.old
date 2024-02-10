@@ -16,13 +16,27 @@ showReadingTime = false
 
 
 ---
-##  Education
-* B.Sc. at Freie Universität Berlin in Bioinformatics\
+## Education
+
+### B.Sc. in Bioinformatics
+**Freie Universität Berlin**\
 Oct 2022 – Present
 
-* B.Sc. at Belarusian State University in Biotechnology\
+During my studies at Freie Universität Berlin, I've embarked on an in-depth exploration of bioinformatics, bridging the gap between biology and computer science. This program has equipped me with a comprehensive understanding of:
+- **Genomic Analysis:** Learning to process and analyze genomic data using advanced computational tools.
+- **Machine Learning Applications in Biology:** Applying ML algorithms to biological datasets for predictive modeling and insights.
+- **Computational Biology:** Developing algorithms and software for analyzing biological data.
+- **Data Science:** Harnessing statistical methods and data analysis techniques to interpret complex biological information.
+
+### B.Sc. in Biotechnology
+**Belarusian State University**\
 Sep 2021 – Sep 2022
 
+At Belarusian State University, my focus was on biotechnology, where I gained foundational knowledge and practical skills in:
+- **Molecular Biology:** Understanding the molecular mechanisms that underpin biological processes.
+- **Biochemical Engineering:** Learning about the industrial applications of biotechnology in healthcare, agriculture, and environmental science.
+- **Genetics:** Exploring the principles of genetics and their applications in modifying organisms for specific purposes.
+- **Bioprocess Technology:** Delving into the techniques and processes used to harness biological materials for production purposes.
 
 ---
 ## Work Experience
@@ -108,4 +122,4 @@ Sep 2021 – Sep 2022
 ### Other Interests and Hobbies:
 - **Fencing:** Active participant and enthusiast.
 - **Hiking:** Passionate about exploring nature and outdoor activities.
-- **Traveling:** Keen on experiencing new cultures and visiting new places.
+- **Traveling:** Keen on experiencing new cultures and visiting new places. Visited 20 countries so far.
