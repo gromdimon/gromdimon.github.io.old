@@ -8,6 +8,12 @@ showReadingTime = false
 ---
 ## Projects and Participations
 
+### beLLM - A Belarusian LLM
+- **[Personal Project on GitHub](https://github.com/gromdimon/beLLM)** | **[Project on Hugging Face](https://huggingface.co/gromdimon/beLLM)**\
+Dec. 2023 - Jan. 2024, Remote\
+The beLLM project pioneers the development of a Belarusian Large Language Model (LLM), leveraging the rich literary heritage of Belarus to train a model capable of understanding and generating Belarusian text. Inspired by [RuPoemGPT](https://github.com/gromdimon/ml-random/tree/master/rupoemgpt) and [nanoGPT](https://github.com/karpathy/nanoGPT), beLLM is a testament to the advancements in NLP for supporting underrepresented languages.
+  - **Technologies Used:** Python, PyTorch, NumPy, Pydantic
+
 ### LLM Bootcamp
 - **[Bootcamp participant](https://fullstackdeeplearning.com/llm-bootcamp/)**\
 Oct. 2023, Remote\
@@ -16,7 +22,7 @@ Developed a full-stack AI assistant utilizing Natural Language Processing (NLP) 
 
 ### MmSCel
 - **[Kaggle Contest](https://www.kaggle.com/competitions/open-problems-multimodal)**\
-Nov. 2022, Remote\
+Nov. 2022\
 Engaged in the development of various Machine Learning models to solve multimodal challenges, focusing on integrating diverse data types.
   - **Technologies Used:** TensorFlow, PyTorch, Scikit-learn for ML model development; Pandas and NumPy for data manipulation.
 
