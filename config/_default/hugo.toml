@@ -21,11 +21,11 @@ theme = "tailwind"
     pageRef = "/"
     weight = 100
 
-  # [[menu.main]]
-  #   identifier = "post"
-  #   name = "Post"
-  #   pageRef = "/posts"
-  #   weight = 0
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 0
 
   [[menu.main]]
     identifier = "about"
