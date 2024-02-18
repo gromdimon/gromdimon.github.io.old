@@ -2,7 +2,7 @@ baseURL = "https://gromdimon.github.io/"
 title = "Personal page"
 author = "Dzmitry Hramyka"
 copyright = "Dzmitry Hramyka"
-paginate = 10
+paginate = 5
 languageCode = "en-us"
 enableGitInfo = true
 theme = "tailwind"
@@ -21,11 +21,11 @@ theme = "tailwind"
     pageRef = "/"
     weight = 100
 
-  [[menu.main]]
-    identifier = "post"
-    name = "Post"
-    pageRef = "/posts"
-    weight = 0
+  #[[menu.main]]
+  #  identifier = "posts.html"
+  #  name = "Posts"
+  #  pageRef = "/posts"
+  #  weight = 0
 
   [[menu.main]]
     identifier = "about"
@@ -69,10 +69,12 @@ theme = "tailwind"
     pageRef = "/contact"
 
 
-# [taxonomies]
-# category = "categories"
-# tag = "tags"
-# series = "series"
+[permalinks]
+  posts = "/posts/:year/:month/:day/:title/"
+  post = "/:year/:month/:day/:title/"
+  series = "/series/:title/"
+  tags = "/tags/:title/"
+  categories = "/categories/:title/"
 
 
 [markup]
